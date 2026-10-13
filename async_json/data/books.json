@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B001",
+    "title": "Flutter实战",
+    "category": "计算机",
+    "borrowCount": 156
+  },
+  {
+    "id": "B002",
+    "title": "算法导论",
+    "category": "计算机",
+    "borrowCount": 203
+  },
+  {
+    "id": "B003",
+    "title": "深入理解计算机系统",
+    "category": "计算机",
+    "borrowCount": 178
+  },
+  {
+    "id": "B004",
+    "title": "三体",
+    "category": "文学",
+    "borrowCount": 342
+  },
+  {
+    "id": "B005",
+    "title": "活着",
+    "category": "文学",
+    "borrowCount": 287
+  },
+  {
+    "id": "B006",
+    "title": "百年孤独",
+    "category": "文学",
+    "borrowCount": 198
+  },
+  {
+    "id": "B007",
+    "title": "人类简史",
+    "category": "历史",
+    "borrowCount": 265
+  },
+  {
+    "id": "B008",
+    "title": "万历十五年",
+    "category": "历史",
+    "borrowCount": 145
+  },
+  {
+    "id": "B009",
+    "title": "明朝那些事儿",
+    "category": "历史",
+    "borrowCount": 312
+  },
+  {
+    "id": "B010",
+    "title": "经济学原理",
+    "category": "经济",
+    "borrowCount": 98
+  },
+  {
+    "id": "B011",
+    "title": "国富论",
+    "category": "经济",
+    "borrowCount": 76
+  },
+  {
+    "id": "B012",
+    "title": "思考，快与慢",
+    "category": "心理",
+    "borrowCount": 134
+  },
+  {
+    "id": "B013",
+    "title": "自卑与超越",
+    "category": "心理",
+    "borrowCount": 89
+  },
+  {
+    "id": "B014",
+    "title": "JavaScript高级程序设计",
+    "category": "计算机",
+    "borrowCount": 221
+  },
+  {
+    "id": "B015",
+    "title": "神雕侠侣",
+    "category": "文学",
+    "borrowCount": 445
+  }
+]
