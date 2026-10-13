@@ -1,0 +1,4 @@
+﻿83a3769 feat: add parallel experiment
+a385c73 feat: robust missing-field & file handling
+6f4a239 feat: parse & stats from books.json
+febbf8b feat: dataset & deps ready
