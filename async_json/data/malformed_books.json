@@ -1,0 +1,22 @@
+[
+  {
+    "id": "B001",
+    "title": "正常书籍",
+    "category": "测试",
+    "borrowCount": 100
+  },
+  {
+    "id": "B002",
+    "title": "缺失borrowCount的书",
+    "category": "测试"
+  },
+  {
+    "id": "B003",
+    "title": "缺失category和borrowCount"
+  },
+  {
+    "title": "缺失id的书",
+    "category": "测试",
+    "borrowCount": 50
+  }
+]
